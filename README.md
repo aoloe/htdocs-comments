@@ -27,3 +27,8 @@ Features which (at least for now) won't be implemented:
 
 - Threaded view.
 - Voting.
+
+# Possible inspirations
+
+- https://github.com/duttski/comment-engine (no managing per email)
+- http://ratherodd.com/commentator/ (way to complex)

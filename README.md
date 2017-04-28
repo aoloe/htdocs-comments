@@ -32,3 +32,4 @@ Features which (at least for now) won't be implemented:
 
 - https://github.com/duttski/comment-engine (no managing per email)
 - http://ratherodd.com/commentator/ (way to complex)
+- https://github.com/adtac/commento (just take the js part)
